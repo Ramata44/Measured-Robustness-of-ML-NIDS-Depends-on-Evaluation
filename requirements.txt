@@ -1,0 +1,12 @@
+# Versions recorded in the run log of the reported results (Python 3.12.6, CPU).
+# The program installs pyarrow, imbalanced-learn, adversarial-robustness-toolbox
+# and kagglehub itself if they are missing.
+torch==2.14.0
+numpy==2.5.3
+pandas==3.0.6
+scikit-learn==1.9.1
+adversarial-robustness-toolbox==1.20.1
+imbalanced-learn==0.14.2
+pyarrow==25.0.1
+kagglehub
+matplotlib
