@@ -1,0 +1,14 @@
+# produced by a run; not part of the repository
+data_final/
+models_final/
+results_final/
+figures_final/
+figures_paper/
+run_all_*.out
+rerun_summary*.txt
+rerun_results*.zip
+backup_models_data.zip
+rerun_all_worker.py
+*.tmp*
+__pycache__/
+.ipynb_checkpoints/
